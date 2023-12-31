@@ -15,11 +15,11 @@
 
 - 📝 I regularly write articles on [-](-)
 
-- 💬 Ask me about **Javascript,C++,CSS,HTML...**
+- 💬 Ask me about **Javascript,C++,CSS,HTML,NODE.JS,REACT,EXPRESS.JS,NPM,MONGOODB,... **
 
 - 📫 How to reach me **jitendravee098@gmail.com**
 
-- 📄 Know about my experiences [-](-)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
