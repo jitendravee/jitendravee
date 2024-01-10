@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **clone Projects,Protfolio Website**
 
-- 🌱 I’m currently learning **Frameworks, courses etc.**
+- 🌱 I’m currently learning flutter and more things in App debelopment
 
 - 👨‍💻 All of my projects are available at [https://github.com/jitendravee](https://github.com/jitendravee)
 
